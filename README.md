@@ -93,5 +93,3 @@ Notas Adicionales
   - Agregar autenticación y seguridad si se usa en producción.
 
 ---
-
-¡Gracias por revisar este proyecto! 🙌
