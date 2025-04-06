@@ -8,8 +8,11 @@ Este proyecto define el modelo de base de datos para una aplicación de **gesti�
 Estructura del Proyecto
 
 /scripts 
+
      ├── create_database.sql # Crea la base de datos y sus tablas 
+     
      ├── seed_data.sql # Inserta datos iniciales: monedas y categorías
+     
 /README.md
 
 
